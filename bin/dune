@@ -1,0 +1,4 @@
+(executable
+ (public_name tmux_generator)
+ (name main)
+ (libraries TmuxConf))
